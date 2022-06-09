@@ -1,2 +1,2 @@
 # ArudenKun.github.io
-Url Link: arudenkun.github.io
+Url Link: https://arudenkun.github.io
