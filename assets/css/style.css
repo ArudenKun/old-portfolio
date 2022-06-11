@@ -251,7 +251,6 @@ ul.side-nav.fixed li.logo {
 	padding: 30px 30px 40px;
 }
 
-
 ul.side-nav.fixed li.logo a {
 	font-weight: 200;
 	line-height: 100%;
@@ -598,8 +597,8 @@ small {
 		position: absolute;
 	}
 
-	.name-title>span,
-	.name-title>a {
+	.name-title > span,
+	.name-title > a {
 		position: relative;
 		line-height: 20px;
 	}
