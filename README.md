@@ -1,2 +1,2 @@
 # ArudenKun.github.io
-Url Link: https://arudenkun.github.io/#intro
+Url Link: http://localhost:5500/index.html
